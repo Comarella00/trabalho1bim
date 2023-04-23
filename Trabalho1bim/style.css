@@ -1,0 +1,84 @@
+#cabeçalho{
+    background-color: rgb(252, 250, 250);
+    height: 120px;
+    position: fixed;
+    width: 99%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.0em;
+}
+
+.caca{
+    width: 50%;
+    height: 50%;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+#tabela1{
+    width: 40%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tabela2{
+    width: 30%;
+    position: flex;
+    float: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#tabela3{
+    width: 30%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    clear: both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tabelas{
+    background-color: lightgray;
+    border: 3px black solid;
+    width: 30%;
+    text-align: center;
+}
+
+.GP{
+    width: 30%;
+    position: flex;
+    float: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.imagens{
+    width: 30px;
+}
+
+#pilotos{
+    width: 30%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    clear: both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#total{
+    width: 30%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    clear: both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
